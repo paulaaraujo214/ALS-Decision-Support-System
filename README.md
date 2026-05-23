@@ -6,6 +6,8 @@
 
 ---
 
+🔗 [Live demo](https://paula-als-predictor.streamlit.app)
+
 > **Nota sobre los datos PRO-ACT:** Los ficheros CSV originales no se incluyen en esta entrega porque están sujetos a un acuerdo de uso que restringe su redistribución. El acceso es gratuito pero requiere registro individual en https://ncri1.partners.org/ProACT. Una vez descargados, deben colocarse en la carpeta `csv_proact/` según se indica en el §1 de este README.  
 > **La aplicación Streamlit sí puede ejecutarse directamente** sin necesidad de los datos PRO-ACT ni de re-ejecutar los notebooks, ya que el modelo entrenado está incluido en `app_streamlit/`.
 
