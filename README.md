@@ -6,7 +6,7 @@
 
 ---
 
-🔗 [Live demo](https://paula-als-predictor.streamlit.app)
+🔗 [Live demo](https://araujo-als-predictor.streamlit.app)
 
 
 
