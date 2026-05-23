@@ -4,3 +4,5 @@ scikit-learn
 shap
 joblib
 streamlit
+matplotlib
+seaborn
